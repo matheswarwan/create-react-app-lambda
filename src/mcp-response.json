@@ -1,0 +1,47 @@
+{
+  "id": "654a77c175ecc83d25d585f8",
+  "campaignResponses": [
+      {
+          "payload": {
+              "experience": "Card A"
+          }
+      }
+  ],
+  "errorCode": 0,
+  "persistedUserId": {
+      "entityId": "gY6OHEzPdC8SbsE7KO8khqssb0MF3mOxlUQ75T_CqmizfvtF3gID0sF7CzU_9WhcBCXZw9-BODcWeWzqcZ8lMW0faP4VvybFSyY0fJ6glNjs_TMxoGVCiYTCoN0blAPB",
+      "accountId": ""
+  },
+  "resolvedUserId": "d8653ab3255627023b4cd385",
+  "anonAffinityId": "0Hj",
+  "eventDetails": {
+      "eventFields": {
+          "contentZones": [
+              "home_hero",
+              "home_sub_hero",
+              "home_recs"
+          ],
+          ".anonId": "c8bc2c500c1d55e3",
+          "customerId": "1005383",
+          "urlref": "https://www.site.alc.ca/content/alc/en/my-account/my-profile.html",
+          ".bv": "16",
+          ".scv": 9,
+          ".ssc": true,
+          "channel": "Server",
+          ".skipProcessing": false,
+          ".pageLocale": "en_CA",
+          "language": "english",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+          "url": "https://www.site.alc.ca/content/alc/en.html",
+          "_debug": true,
+          ".pv": true,
+          "action": "Homepage",
+          "pageType": "home",
+          "_persistedUserId": "atxPBtQ4DOA2sQ0LSpMsGTYG9TawVId8xQLO6_9s5y5RVE1SfnPHrcX0KDKyKCCiSZQn57iuPZeKH16-0sTrdg1K23IaFEMjYz7-ftLGWWBhPnTGJZVpptb7c3n2k4jv",
+          "cookieId": "1001452",
+          "sfmcContactKey": "1001452"
+      },
+      "userId": "d8653ab3255627023b4cd385",
+      "timestamp": 1699379137769
+  }
+}

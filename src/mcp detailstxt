@@ -1,0 +1,78 @@
+https://partnercloudkettleca.us-4.evergage.com/api2/authevent/plusgrade
+
+https://atlanticlottery2.us-7.evergage.com/api2/authevent/site
+
+AACEEA73-42C9-4D71-B17C-3F80B3B5BE8E
+6r4soJRHQnzYg0wY22kf6GTs2U7tBfctTiaZBju65gk
+
+MCP - React Body Card Switch
+
+export class NewTemplate implements CampaignTemplateComponent {
+
+    @title("Select Experience")
+    @options(["Card A", "Card B"])
+    experience : string = "Card A";
+
+
+    run(context: CampaignComponentContext) {
+        return {
+            experience: this.experience
+        };
+    }
+}
+
+
+
+{
+  "_toolsEventLinkId": "16439922025179476",
+  "account": {
+    
+  },
+  "action": "Homepage",
+  "catalog": {
+    
+  },
+  "consents": [
+    
+  ],
+  "debug": {
+    "explanations": true
+  },
+  "flags": {
+    "pageView": true
+  },
+  "itemAction": null,
+  "performance": {
+    
+  },
+  "source": {
+    "beaconVersion": 16,
+    "channel": "Server",
+    "configVersion": "9",
+    "contentZones": [
+      "home_hero",
+      "home_sub_hero",
+      "home_recs"
+    ],
+    "locale": "en_CA",
+    "pageType": "home",
+    "url": "https://www.site.alc.ca/content/alc/en.html",
+    "urlReferrer": "https://www.site.alc.ca/content/alc/en/my-account/my-profile.html"
+  },
+  "user": {
+    "anonId": "c8bc2c500c1d55e3",
+    "attributes": {
+      "cookieId": "1001452",
+      "customerId": "1001452",
+      "language": "english",
+      "sfmcContactKey": "1001452"
+    },
+    "encryptedId": "atxPBtQ4DOA2sQ0LSpMsGTYG9TawVId8xQLO6_9s5y5RVE1SfnPHrcX0KDKyKCCiSZQn57iuPZeKH16-0sTrdg1K23IaFEMjYz7-ftLGWWBhPnTGJZVpptb7c3n2k4jv",
+    "id": "1005383"
+  }
+}
+
+
+API Key ID	API Key Secret
+AACE973F-A4E7-402E-ADFD-2E06746376F3
+OqB_w3nGHtYZUU2yAxzeV8QdENljojjh9vAwgbsQxVo
